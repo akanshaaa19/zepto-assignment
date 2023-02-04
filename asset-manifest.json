@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/zepto-assignment/static/css/main.8b091073.css",
+    "main.js": "/zepto-assignment/static/js/main.7ac71599.js",
+    "static/media/cupcake1.png": "/zepto-assignment/static/media/cupcake1.eb26b984194caf822478.png",
+    "static/media/cupcake3.png": "/zepto-assignment/static/media/cupcake3.ad03a090cb2ee1a4c6ed.png",
+    "static/media/cupcake2.png": "/zepto-assignment/static/media/cupcake2.8f35d17229adf2d48893.png",
+    "static/media/cupcake4.png": "/zepto-assignment/static/media/cupcake4.f29b7d55be52c6f8c3d1.png",
+    "index.html": "/zepto-assignment/index.html",
+    "static/media/gift.svg": "/zepto-assignment/static/media/gift.dbb5709459bd3dbf0127f3e39ef81402.svg",
+    "static/media/trash.svg": "/zepto-assignment/static/media/trash.fa67acd5f91bb6da15ef52de9d5cd621.svg",
+    "static/media/users.svg": "/zepto-assignment/static/media/users.c5ff2ed80304dd5fcafd16f82947a6f3.svg",
+    "static/media/basket.svg": "/zepto-assignment/static/media/basket.0b27beda6d01469df17998221be151dc.svg",
+    "static/media/plus.svg": "/zepto-assignment/static/media/plus.5115221b8c8c7d954d6cb488f79bf3f0.svg",
+    "static/media/home.svg": "/zepto-assignment/static/media/home.abf235a848ffc66d081558438fccec1e.svg",
+    "static/media/bell.svg": "/zepto-assignment/static/media/bell.f82407826270ff84240d45411963e0bf.svg",
+    "static/media/edit.svg": "/zepto-assignment/static/media/edit.cd730fbac5830235fbc8a86113e8a220.svg",
+    "main.8b091073.css.map": "/zepto-assignment/static/css/main.8b091073.css.map",
+    "main.7ac71599.js.map": "/zepto-assignment/static/js/main.7ac71599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b091073.css",
+    "static/js/main.7ac71599.js"
+  ]
+}
