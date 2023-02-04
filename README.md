@@ -9,5 +9,5 @@
 - Step 6: This will automatically open `localhost:3000` on your browser if nothing happens go to `localhost:3000` on your browser
 - Step 7: You are now on the website
 
-## (Project video demonstration)[https://clipchamp.com/watch/kdggvKlem80]
+## [Project video demonstration](https://clipchamp.com/watch/kdggvKlem80)
 https://user-images.githubusercontent.com/76031685/216768834-d8992905-7189-4080-9d99-dd83bb41d664.mp4
