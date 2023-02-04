@@ -1,4 +1,4 @@
-## live link: [https://akanshaaa19.github.io/zepto-assignment]
+## Live link: [https://akanshaaa19.github.io/zepto-assignment]
 
 ## to open in your local machine:
 - Step 1 : Clone this repo
@@ -8,3 +8,6 @@
 - Step 5: Run `npm start` to start the loaclhost server
 - Step 6: This will automatically open `localhost:3000` on your browser if nothing happens go to `localhost:3000` on your browser
 - Step 7: You are now on the website
+
+## Project video demonstration
+Uploading video.mp4…
