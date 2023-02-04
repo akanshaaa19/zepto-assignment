@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import { Fragment } from "react";
+import "./App.css";
+import SideNav from "./components/Layout/SideNav";
+import { Route } from "react-router-dom";
+import Dashboard from "./pages/Dashboard";
+import Header from "./components/Layout/Header";
+import NewCampaign from "./pages/NewCampaign";
+import { Redirect } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Fragment>
+      <Header />
+      <SideNav />
+      <Route path="/">
+        <Redirect to="/campaign" />
+      </Route>
+      <Route path="/campaign" exact>
+        <Dashboard />
+      </Route>
+      <Route path="/campaign/new">
+        <NewCampaign />
+      </Route>
+    </Fragment>
   );
 }
 
